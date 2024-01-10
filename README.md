@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Full Stack Development 
 - 💞️ I’m looking to collaborate on Frontend Development
-- 📫 How to reach me (muradewaris7@gmail.com)
+- 📫 Reach me: (muradewaris7@gmail.com)
 
 <!---
 fazwaris/fazwaris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
